@@ -212,8 +212,15 @@ display: flex;
    .body{
     font-size: 16px;
    }
+   .scrollimages{
+    height: auto;
+    width: auto;
+   }
 div{
     size: 50px;
+}
+.mainscrolldiv{
+    border: none;
 }
 .mobi img{
 height: 40px;
